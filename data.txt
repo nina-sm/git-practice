@@ -1,3 +1,4 @@
 Name: Nina 
 Age: 25
 Place: Berlin
+Favourite Color: Blue 
